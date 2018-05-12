@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2544
     wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20730#For-the-Sake-of-the-School
 gutenberg_bookshelf:
 - Children's Fiction
 - School Stories
